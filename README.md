@@ -1,5 +1,5 @@
 # Heliconius-melpomene-sensory-and-neural-transcriptomics
-This repository contains the codes (and the parameters within them) to identify the neurotranscriptomic signatures associated with natural variation in mate preference learning in two subspecies of Heliconius melpomene. The example codes are for the antennae (AN) tissues, but the same codes and parameters were used for the eyes (EY) and the brain (BR) tissues.
+This repository contains the codes (and the parameters within them) used to identify the neurotranscriptomic signatures associated with natural variation in mate preference learning in two subspecies of Heliconius melpomene. The example codes are for the antennae (AN) tissues, but the same codes and parameters were used for the eyes (EY) and the brain (BR) tissues.
 
 The sequence of the analyses were as follows:
 
